@@ -1,59 +1,59 @@
 {
     "data": [
         {
-            "compoundid": "V950",
+            "id": "V950",
             "genericname": "Alzheimer's disease amyloid beta-peptide conj vaccine (OMPC)"
         },
         {
-            "compoundid": "V947",
+            "id": "V947",
             "genericname": "cancer IL-12 MAGE-A1 A3 A4 A10 recombinant vector vaccine (lentivirus)"
         },
         {
-            "compoundid": "V944A",
+            "id": "V944A",
             "genericname": ""
         },
         {
-            "compoundid": "V944",
+            "id": "V944",
             "genericname": "cancer NY-ESO-1 recombinant protein vaccine"
         },
         {
-            "compoundid": "V943",
+            "id": "V943",
             "genericname": "cancer NY-ESO-1 recombinant vector vaccine (lentivirus)"
         },
         {
-            "compoundid": "V941",
+            "id": "V941",
             "genericname": "mRNA KRAS mutant vaccine"
         },
         {
-            "compoundid": "V940",
+            "id": "V940",
             "genericname": "mRNA autologous neoantigen vaccine"
         },
         {
-            "compoundid": "0005",
+            "id": "0005",
             "genericname": "2-p-sulfanilylanilinoethanol"
         },
         {
-            "compoundid": "0004",
+            "id": "0004",
             "genericname": "L-000494417"
         },
         {
-            "compoundid": "0003",
+            "id": "0003",
             "genericname": "L-000490135"
         },
         {
-            "compoundid": "0002A",
+            "id": "0002A",
             "genericname": "benztropine mesylate (+) perphenazine"
         },
         {
-            "compoundid": "0002",
+            "id": "0002",
             "genericname": "benztropine mesylate"
         },
         {
-            "compoundid": "0001",
+            "id": "0001",
             "genericname": "L-000482203"
         },
         {
-            "compoundid": "0000",
+            "id": "0000",
             "genericname": "[composition unspecified]"
         }
     ]
